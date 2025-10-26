@@ -1,0 +1,13 @@
+| File / Folder                | What it does (in plain English)                                                                                                                                          |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **eval/**                    | Folder that stores your evaluation results — basically where you log or save how well your model performed (metrics, outputs, etc.).                                     |
+| **app.py**                   | The main script that actually runs the chatbot — connects everything (retrieval, generation, and evaluation). This is the heart of your project.                         |
+| **bm25_index.pkl**           | A precomputed BM25 index saved as a pickle file. This is used for fast text search when retrieving restaurant data based on user queries.                                |
+| **eval_task.py**             | Script that runs your evaluation pipeline — it probably calculates metrics like success rate, unanswered rate, price MAE, etc.                                           |
+| **faiss_embeddings.npy**     | A big NumPy array file that holds your FAISS vector embeddings — these are the semantic representations of your restaurant text data. Used for similarity search.        |
+| **generation.py**            | Handles the response generation part — talks to the language model (like Llama 3.2 via Ollama) and builds replies to user questions.                                     |
+| **geo.py**                   | Contains functions for geographic calculations — like checking distances between restaurants and the user’s location (for [Success@0.8km](mailto:Success@0.8km) metric). |
+| **prompt_templates.py**      | Stores your prompt structures — basically templates you feed to the LLM for consistent responses (like “Given this query and retrieved docs, generate a response…”).     |
+| **quick_test.py**            | A small test script to quickly check if everything runs properly — good for debugging retrieval or generation steps.                                                     |
+| **retrieval.py**             | Handles all the retrieval logic — pulls relevant info from your restaurant knowledge base using BM25 or FAISS embeddings.                                                |
+| **Updated_with_kbtext.xlsx** | Your dataset spreadsheet — contains the final, cleaned restaurant knowledge base (with names, categories, price, ratings, etc.), used to generate `kb_text`.             |
