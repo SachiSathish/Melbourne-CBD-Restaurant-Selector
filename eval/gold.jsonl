@@ -1,0 +1,50 @@
+{"qid": 1, "question": "Budget-friendly Coffee_Shop around melbourne central", "constraints": {"cuisine": ["coffee_shop"], "near": "melbourne central"}}
+{"qid": 2, "question": "Coffee_Shop restaurants under $15 near federation square", "constraints": {"cuisine": ["coffee_shop"], "near": "federation square"}}
+{"qid": 3, "question": "Affordable Coffee_Shop near flinders street station", "constraints": {"cuisine": ["coffee_shop"], "near": "flinders street station"}}
+{"qid": 4, "question": "Coffee_Shop restaurants under $30 near federation square", "constraints": {"cuisine": ["coffee_shop"], "near": "federation square"}}
+{"qid": 5, "question": "Coffee_Shop under $30 close to melbourne central", "constraints": {"cuisine": ["coffee_shop"], "near": "melbourne central"}}
+{"qid": 6, "question": "Chinese restaurants under $15 near federation square", "constraints": {"cuisine": ["chinese"], "near": "federation square"}}
+{"qid": 7, "question": "Budget-friendly Chinese around flinders street station", "constraints": {"cuisine": ["chinese"], "near": "flinders street station"}}
+{"qid": 8, "question": "AffordabChinese near melbourne central", "constraints": {"cuisine": ["chinese"], "near": "melbourne central"}}
+{"qid": 9, "question": "Chinese under $30 close to flinders street station", "constraints": {"cuisine": ["chinese"], "near": "flinders street station"}}
+{"qid": 10, "question": "Chinese restaurants under $30 near federation square", "constraints": {"cuisine": ["chinese"], "near": "federation square"}}
+{"qid": 11, "question": "Budget-friendly Japanese around federation square", "constraints": {"cuisine": ["japanese"], "near": "federation square"}}
+{"qid": 12, "question": "Japanese for less than $15 near flinders street station", "constraints": {"cuisine": ["japanese"], "near": "flinders street station"}}
+{"qid": 13, "question": "Affordable Japanese near melbourne central", "constraints": {"cuisine": ["japanese"], "near": "melbourne central"}}
+{"qid": 14, "question": "Japanese restaurants under $30 near flinders street station", "constraints": {"cuisine": ["japanese"], "near": "flinders street station"}}
+{"qid": 15, "question": "Japanese under $30 close to federation square", "constraints": {"cuisine": ["japanese"], "near": "federation square"}}
+{"qid": 16, "question": "Budget-friendly Bar around flinders street station", "constraints": {"cuisine": ["bar"], "near": "flinders street station"}}
+{"qid": 17, "question": "Bar restaurants under $15 near federation square", "constraints": {"cuisine": ["bar"], "near": "federation square"}}
+{"qid": 18, "question": "Affordable Bar near melbourne central", "constraints": {"cuisine": ["bar"], "near": "melbourne central"}}
+{"qid": 19, "question": "Bar restaurants under $30 near flinders street station", "constraints": {"cuisine": ["bar"], "near": "flinders street station"}}
+{"qid": 20, "question": "Bar under $30 close to federation square", "constraints": {"cuisine": ["bar"], "near": "federation square"}}
+{"qid": 21, "question": "Budget-friendly Korean around federation square", "constraints": {"cuisine": ["korean"], "near": "federation square"}}
+{"qid": 22, "question": "Korean restaurants under $15 near flinders street station", "constraints": {"cuisine": ["korean"], "near": "flinders street station"}}
+{"qid": 23, "question": "Affordable Korean near melbourne central", "constraints": {"cuisine": ["korean"], "near": "melbourne central"}}
+{"qid": 24, "question": "Korean restaurants under $30 near federation square", "constraints": {"cuisine": ["korean"], "near": "federation square"}}
+{"qid": 25, "question": "Korean under $30 close to flinders street station", "constraints": {"cuisine": ["korean"], "near": "flinders street station"}}
+{"qid": 26, "question": "Budget-friendly Burger around federation square", "constraints": {"cuisine": ["burger"], "near": "federation square"}}
+{"qid": 27, "question": "Burger restaurants under $15 near melbourne central", "constraints": {"cuisine": ["burger"], "near": "melbourne central"}}
+{"qid": 28, "question": "Affordable Burger near flinders street station", "constraints": {"cuisine": ["burger"], "near": "flinders street station"}}
+{"qid": 29, "question": "Burger restaurants under $30 near federation square", "constraints": {"cuisine": ["burger"], "near": "federation square"}}
+{"qid": 30, "question": "Burger under $30 close to melbourne central", "constraints": {"cuisine": ["burger"], "near": "melbourne central"}}
+{"qid": 31, "question": "Budget-friendly Italian around melbourne central", "constraints": {"cuisine": ["italian"], "near": "melbourne central"}}
+{"qid": 32, "question": "Italian restaurants under $15 near flinders street station", "constraints": {"cuisine": ["italian"], "near": "flinders street station"}}
+{"qid": 33, "question": "Affordable Italian near federation square", "constraints": {"cuisine": ["italian"], "near": "federation square"}}
+{"qid": 34, "question": "Italian restaurants under $30 near melbourne central", "constraints": {"cuisine": ["italian"], "near": "melbourne central"}}
+{"qid": 35, "question": "Italian under $30 close to flinders street station", "constraints": {"cuisine": ["italian"], "near": "flinders street station"}}
+{"qid": 36, "question": "Budget-friendly Sandwich around federation square", "constraints": {"cuisine": ["sandwich"], "near": "federation square"}}
+{"qid": 37, "question": "Sandwich restaurants under $15 near flinders street station", "constraints": {"cuisine": ["sandwich"], "near": "flinders street station"}}
+{"qid": 38, "question": "Affordable Sandwich near melbourne central", "constraints": {"cuisine": ["sandwich"], "near": "melbourne central"}}
+{"qid": 39, "question": "Sandwich restaurants under $30 near federation square", "constraints": {"cuisine": ["sandwich"], "near": "federation square"}}
+{"qid": 40, "question": "Sandwich under $30 close to flinders street station", "constraints": {"cuisine": ["sandwich"], "near": "flinders street station"}}
+{"qid": 41, "question": "Budget-friendly Thai around melbourne central", "constraints": {"cuisine": ["thai"], "near": "melbourne central"}}
+{"qid": 42, "question": "Thai restaurants under $15 near federation square", "constraints": {"cuisine": ["thai"], "near": "federation square"}}
+{"qid": 43, "question": "Affordable Thai near flinders street station", "constraints": {"cuisine": ["thai"], "near": "flinders street station"}}
+{"qid": 44, "question": "Thai restaurants under $30 near melbourne central", "constraints": {"cuisine": ["thai"], "near": "melbourne central"}}
+{"qid": 45, "question": "Thai under $30 close to federation square", "constraints": {"cuisine": ["thai"], "near": "federation square"}}
+{"qid": 46, "question": "Restaurants under $15 near flinders street station", "constraints": {"near": "flinders street station"}}
+{"qid": 47, "question": "Affordable restaurants near flinders street station", "constraints": {"near": "flinders street station"}}
+{"qid": 48, "question": "Budget-friendly eats around flinders street station", "constraints": {"near": "flinders street station"}}
+{"qid": 49, "question": "Good food under $15 close to flinders street station", "constraints": {"near": "flinders street station"}}
+{"qid": 50, "question": "Restaurants under $30 near flinders street station", "constraints": {"near": "flinders street station"}}
