@@ -1,0 +1,2 @@
+** Instructions for Execution **
+Its pretty simple. Keep Ollama running in your system background and run the app.py file. Then, run Streamlit with app.py
